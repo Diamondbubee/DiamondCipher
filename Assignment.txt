@@ -1,0 +1,12 @@
+Here are 10 development servers 
+
+Vite
+webpack-dev-server
+Next.js dev server
+Python `http.server
+Flask dev server
+Django `runserver
+Uvicorn
+Go `net/http` + Air
+Kestrel via `dotnet watch
+json-server
